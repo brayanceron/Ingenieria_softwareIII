@@ -768,7 +768,7 @@ namespace WindowsFormsApp3
 
         private void btn_modificar_Click(object sender, EventArgs e)
         {
-            /*
+            
             ///---validar que todos los campos este llenos
             if (txb_nombresmodificar.Text.Equals("") ||
                 txb_direccionmodificar.Text.Equals("") ||
@@ -880,7 +880,7 @@ namespace WindowsFormsApp3
 
             //metodos.desconectar();
             this.Close();
-            */
+            
         }
         Boolean flagprest = false;
         Boolean flaginver = false;
@@ -1071,7 +1071,7 @@ namespace WindowsFormsApp3
 
         private void btn_modificar_transaccion_Click(object sender, EventArgs e)
         {
-            /*
+            
             ///---validar que todos los campos este llenos
             if (txb_modificarmonto.Text.Equals("") ||
                 txb_modificartasa.Text.Equals("") ||
@@ -1250,7 +1250,7 @@ namespace WindowsFormsApp3
             txb_codigomodificar.Text = "";
             txb_cedulamodificar.Text = "";
             this.Close();
-            */
+            
         }
 
         private void button4_Click(object sender, EventArgs e)
