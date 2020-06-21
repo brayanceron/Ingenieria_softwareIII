@@ -1,0 +1,55 @@
+C:\Users\Braya\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Confiar.csprojAssemblyReference.cache
+C:\Users\Braya\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Cuadros_de_dialo.resources
+C:\Users\Braya\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Main.resources
+C:\Users\Braya\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Braya\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Confiar.csproj.GenerateResource.cache
+C:\Users\Braya\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Confiar.csproj.CoreCompileInputs.cache
+C:\Users\Braya\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Braya\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Braya\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Braya\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Braya\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Braya\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Informacion_Clientes.resources
+C:\Users\Braya\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Generar_Cronogramas.resources
+C:\Users\Braya\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Pagar_Inversion.resources
+C:\Users\Braya\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Administrar_Garantia.resources
+C:\Users\Braya\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Administrar_Transaciones.resources
+C:\Users\Braya\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Npgsql.dll
+C:\Users\Braya\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Confiar.csproj.CopyComplete
+C:\Users\Braya\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Braya\source\repos\confiar_proyecto\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Braya\source\repos\confiar_proyecto\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Braya\source\repos\confiar_proyecto\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Braya\source\repos\confiar_proyecto\WindowsFormsApp3\bin\Debug\Npgsql.dll
+C:\Users\Braya\source\repos\confiar_proyecto\WindowsFormsApp3\obj\Debug\Confiar.csprojAssemblyReference.cache
+C:\Users\Braya\source\repos\confiar_proyecto\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Cuadros_de_dialo.resources
+C:\Users\Braya\source\repos\confiar_proyecto\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Informacion_Clientes.resources
+C:\Users\Braya\source\repos\confiar_proyecto\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Administrar_Transaciones.resources
+C:\Users\Braya\source\repos\confiar_proyecto\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Administrar_Garantia.resources
+C:\Users\Braya\source\repos\confiar_proyecto\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Pagar_Inversion.resources
+C:\Users\Braya\source\repos\confiar_proyecto\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Generar_Cronogramas.resources
+C:\Users\Braya\source\repos\confiar_proyecto\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Main.resources
+C:\Users\Braya\source\repos\confiar_proyecto\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Braya\source\repos\confiar_proyecto\WindowsFormsApp3\obj\Debug\Confiar.csproj.GenerateResource.cache
+C:\Users\Braya\source\repos\confiar_proyecto\WindowsFormsApp3\obj\Debug\Confiar.csproj.CoreCompileInputs.cache
+C:\Users\Braya\source\repos\confiar_proyecto\WindowsFormsApp3\obj\Debug\Confiar.csproj.CopyComplete
+C:\Users\Braya\source\repos\confiar_proyecto\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Braya\source\repos\confiar_proyecto\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\UDENAR\Ingenieria desoftware\ING. SOFTWARE III\confiar_proyecto\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\UDENAR\Ingenieria desoftware\ING. SOFTWARE III\confiar_proyecto\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\UDENAR\Ingenieria desoftware\ING. SOFTWARE III\confiar_proyecto\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\UDENAR\Ingenieria desoftware\ING. SOFTWARE III\confiar_proyecto\WindowsFormsApp3\bin\Debug\Npgsql.dll
+C:\UDENAR\Ingenieria desoftware\ING. SOFTWARE III\confiar_proyecto\WindowsFormsApp3\obj\Debug\Confiar.csprojAssemblyReference.cache
+C:\UDENAR\Ingenieria desoftware\ING. SOFTWARE III\confiar_proyecto\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Cuadros_de_dialo.resources
+C:\UDENAR\Ingenieria desoftware\ING. SOFTWARE III\confiar_proyecto\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Informacion_Clientes.resources
+C:\UDENAR\Ingenieria desoftware\ING. SOFTWARE III\confiar_proyecto\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Administrar_Transaciones.resources
+C:\UDENAR\Ingenieria desoftware\ING. SOFTWARE III\confiar_proyecto\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Administrar_Garantia.resources
+C:\UDENAR\Ingenieria desoftware\ING. SOFTWARE III\confiar_proyecto\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Pagar_Inversion.resources
+C:\UDENAR\Ingenieria desoftware\ING. SOFTWARE III\confiar_proyecto\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Generar_Cronogramas.resources
+C:\UDENAR\Ingenieria desoftware\ING. SOFTWARE III\confiar_proyecto\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Main.resources
+C:\UDENAR\Ingenieria desoftware\ING. SOFTWARE III\confiar_proyecto\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\UDENAR\Ingenieria desoftware\ING. SOFTWARE III\confiar_proyecto\WindowsFormsApp3\obj\Debug\Confiar.csproj.GenerateResource.cache
+C:\UDENAR\Ingenieria desoftware\ING. SOFTWARE III\confiar_proyecto\WindowsFormsApp3\obj\Debug\Confiar.csproj.CoreCompileInputs.cache
+C:\UDENAR\Ingenieria desoftware\ING. SOFTWARE III\confiar_proyecto\WindowsFormsApp3\obj\Debug\Confiar.csproj.CopyComplete
+C:\UDENAR\Ingenieria desoftware\ING. SOFTWARE III\confiar_proyecto\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\UDENAR\Ingenieria desoftware\ING. SOFTWARE III\confiar_proyecto\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
